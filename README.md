@@ -140,6 +140,8 @@
     - Handling complex data structures with JNI.
     - Optimizing performance for JNI calls.
     - Hands-on: Implement advanced JNI integration with complex C++ logic.
+
+ - Phase 7: Final Project – End-to-End Android App Development
   - Session 30-35: Final Project – End-to-End Android App Development
     - Recap of all the concepts learned.
     - Build a complete Android app using MVVM, DI, NDK, and coroutines.
