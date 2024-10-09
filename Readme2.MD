@@ -122,12 +122,9 @@ In the final 5 sessions, you will work on a capstone project that integrates all
 
 ---
 
-### **Requirements**
+### **Session Duration**
 
-To successfully complete this course, you will need:
-- Android Studio installed on your machine.
-- Basic understanding of C++ and object-oriented programming.
-- A willingness to dive into Kotlin and Android SDK.
+- Each session will be of 100 to 120 minutes.
 
 ---
 
